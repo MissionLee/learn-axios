@@ -1,5 +1,11 @@
 # axios
 
+## 说明
+
+原项目：git@github.com:axios/axios.git
+
+完整的pull了一份axios的源码，调试并在其中写下注释，补全涉及到的相关知识。
+
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
 [![build status](https://img.shields.io/travis/axios/axios/master.svg?style=flat-square)](https://travis-ci.org/axios/axios)
 [![code coverage](https://img.shields.io/coveralls/mzabriskie/axios.svg?style=flat-square)](https://coveralls.io/r/mzabriskie/axios)
