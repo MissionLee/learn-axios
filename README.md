@@ -2,9 +2,15 @@
 
 ## 说明
 
-原项目：git@github.com:axios/axios.git
+源项目：git@github.com:axios/axios.git
 
-完整的pull了一份axios的源码，调试并在其中写下注释，补全涉及到的相关知识。
+学习过程中找到了一份类似的优秀文档（解释了不少我的疑惑）：https://github.com/ronffy/axios-tutorial
+
+完整的pull了一份axios的源码，调试并在其中写下注释，补全涉及到的相关知识。当然其中有不少内容参考了上面写到的文档。
+
+为什么有了别人优秀的总结，我自己还要费力整一份：跟随axios从创建到完成请求的工作流程，上手调试代码，学习其中细节，补全自己不了解的前端知识点
+
+## 以下内容为源项目Readme.md
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
 [![build status](https://img.shields.io/travis/axios/axios/master.svg?style=flat-square)](https://travis-ci.org/axios/axios)
